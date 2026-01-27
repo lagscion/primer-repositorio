@@ -1,2 +1,6 @@
-# primer-repositorio
-clase campus 
+# ARCHIVO DE TIPO MARKDOWN
+## TITULOS DE SEGUNDO NIVEL
+### TITULOS DE TERCER NIVEL
+
+ESTE ES UN **EJEMPLO** DE UN ARCHIVO MARKDWON
+markdown_.
