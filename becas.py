@@ -48,14 +48,14 @@ def menuBec ():
 
 
 def leer_opcion_bec():
-   op =  (input("digite su opcion: "))
-   while ( not op.isdigit() ) or int (op) < 1 or int (op) > 3:
-       print ("Error. Digite un numero del 1 a el 3. ")
-       input ("presione cualquier tecla para continuar....")
-       print ("\n\n")
-       menu()
-       op = input()
-   return int (op)
+    op =  (input("digite su opcion: "))
+    while ( not op.isdigit() ) or int (op) < 1 or int (op) > 3:
+        print ("Error. Digite un numero del 1 a el 3. ")
+        input ("presione cualquier tecla para continuar....")
+        print ("\n\n")
+        menu()
+        op = input()
+    return int (op)
 
 
 
